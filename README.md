@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi There, I'm Aryanto, M.Si
+# Hi There, I'm Aryanto.
 
 ### **Sr. Data Scientist** | **Specialist Marketing Science and Automation | Managing Cloud Ops & Network | AI System Architecture | Advanced Statistician and Actuary**
 
